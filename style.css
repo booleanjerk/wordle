@@ -1,6 +1,12 @@
 * {
   font-family: sans-serif;
 }
+#title {
+  display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center;    /* Vertical centering */
+  height: 100px;          /* Adjust height as needed */
+}
 
 h3 {
  text-align: center;
